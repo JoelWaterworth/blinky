@@ -1,0 +1,6 @@
+set_io clk_in 21  
+set_io led_green_out 95  
+set_io led_red[0] 96  
+set_io led_red[1] 97  
+set_io led_red[2] 98  
+set_io led_red[3] 99 
